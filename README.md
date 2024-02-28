@@ -40,6 +40,13 @@ Pour démarrer l'application, exécutez :
 python main.py
 ```
 
+3. Effectuer les  tout les tests : 
+
+```
+ --python -m unittest discover -s tests    
+```
+
+
 ## Génération du Rapport flake8-html
 
 Pour générer un rapport de conformité du code avec flake8-html, exécutez la commande suivante :
