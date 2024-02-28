@@ -1,8 +1,7 @@
-# Gestion de Tournois d'Échecs
+# Rapport 
 
-Ce projet est une application de gestion de tournois d'échecs écrite en Python. 
-Elle suit les principes de la programmation orientée objet (POO) et utilise l'architecture Modèle-Vue-Contrôleur (MVC). 
-Le code est conforme aux standards PEP8, vérifié à l'aide de flake8, et les rapports de conformité peuvent être générés avec flake8-html.
+Tout les flake Sucess 
+Deux test ne passe pas sur tout les tests
 
 
 ## Installation
@@ -47,6 +46,7 @@ python main.py
 ```
 
 
+
 ## Génération du Rapport flake8-html
 
 Pour générer un rapport de conformité du code avec flake8-html, exécutez la commande suivante :
@@ -59,3 +59,6 @@ Ouvrez `rapport_flake8/index.html` dans votre navigateur pour voir le rapport.
 
 # Partiels_Python
 # Partiels_Python
+
+
+
